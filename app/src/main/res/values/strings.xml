@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RxTest</string>
+    <string name="dec">描述</string>
+    <string name="toolbar_title">Okhttp缓存测试</string>
+    <string name="movie">电影</string>
+    <string name="test">测试</string>
+    <string name="load">访问</string>
+</resources>
